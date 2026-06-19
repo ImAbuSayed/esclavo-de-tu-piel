@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Esclavo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-piel/) |
+| **Get License** | [Get a Licensing Quote for Esclavo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b50fd209a2931f9ce2a437ece87c0d935a39979445c465996a5411aae7db447` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

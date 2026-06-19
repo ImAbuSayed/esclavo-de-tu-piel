@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tu piel
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tu piel** (esclavo-de-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T22:01:36.086658 | `v1` | `9b50fd209a2931f9ce2a437ece87c0d935a39979445c465996a5411aae7db447` | `fefed6e5c6573b9df18fc23a33dabc92ac5cf3c25e7279468ea33823b1716776` | `2026-06-19_esclavo-de-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
