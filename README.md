@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Esclavo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-piel/) |
+| **Get License** | [Commercial Licensing for Esclavo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú sabes que esta noche no hay salida
+> Me tienes atrapado, tú eres mi debilidad
+> Ese movimiento tuyo me quita la vida
+> Soy esclavo de tu piel en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
